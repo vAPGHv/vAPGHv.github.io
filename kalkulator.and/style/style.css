@@ -1,0 +1,36 @@
+.but {
+    width: 10%;
+    height: 400%;
+}
+
+hr {
+    width: 800px;
+    margin-left: -10px;
+}
+
+.up {
+    font-size: 300%;
+}
+
+.d {
+    font-size: 340%;
+}
+
+body {
+    background: linear-gradient(90deg, #e27c39, #f2bae8, #0c7bb3, #c9f9fe);
+}
+
+a {
+    color: #126bab;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+    text-shadow: 0px 0px 1px rgba(0, 0, 0, 0.65);
+}
+
+.b0, .br, .bplu{
+    font-size: 398%;
+}

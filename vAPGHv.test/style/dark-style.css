@@ -1,0 +1,110 @@
+@media (min-width: 1201px) {
+
+a {
+
+    color: rgba(38, 111, 232, 0.6);
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    color: rgba(255, 0, 0, 0.6);
+    text-decoration: underline;
+
+}
+
+.sup {
+    padding-left: 200px;
+}
+
+.st {
+    padding-left: 10px;
+    color: #999;
+}
+
+.blog {
+    color: #ccc;
+    font-size: 24px;
+}
+
+.end {
+    background-size: 200%;
+    background: linear-gradient(180deg, #ff9964, #77b5d5);
+}
+
+.up {
+    padding-left: 10px;
+}
+
+body {
+    background: url(../imgs/dbg.jpg);
+    padding-right: 1200px;
+}
+
+}
+
+@media (max-width: 1200px) {
+    
+    a {
+
+    color: rgba(38, 111, 232, 0.6);
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    color: rgba(255, 0, 0, 0.6);
+    text-decoration: underline;
+
+}
+
+.sup {
+    padding-left: 200px;
+}
+
+.st {
+    padding-left: 10px;
+    color: #999;
+}
+
+.blog {
+    color: #ccc;
+    font-size: 24px;
+}
+
+.myimg{
+    width: 100%;
+}
+
+.end {
+    background-size: 200px;
+    background: linear-gradient(180deg, #c4dae5, #eacebd);
+    padding-left: 20px;
+    padding-right: 30px;
+}
+
+.up {
+    padding-left: 10px;
+}
+
+html {
+    width: 40%;
+    background: url(../imgs/dbg.jpg);
+}
+
+.video{
+    width: 350px;
+}
+
+.mob {
+    font-size: 300%;
+    width: 340%;
+}
+
+hr {
+    width: 355%;
+}
+
+}
