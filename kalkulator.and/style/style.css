@@ -30,3 +30,7 @@ a:hover {
 .b0, .br, .bplu, .bc{
     font-size: 398%;
 }
+
+.result {
+    text-shadow: 0px 0px 1px rgba(0, 0, 0, 0.65);
+}
